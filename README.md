@@ -1,18 +1,32 @@
-# Stampchain MCP Server
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stampchain-io/stampchain-mcp/main/docs/assets/bitcoinstamps-indexer-github-hero.png" alt="Stampchain - MCP" width="100%">
 
-[![CI](https://github.com/stampchain-io/stampchain-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/stampchain-io/stampchain-mcp/actions/workflows/ci.yml)
-[![npm version](https://badge.fury.io/js/stampchain-mcp.svg)](https://badge.fury.io/js/stampchain-mcp)
-[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](https://www.typescriptlang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
-[![MCP](https://img.shields.io/badge/MCP-Compatible-blue.svg)](https://modelcontextprotocol.io/)
+### Stampchain - MCP Server 
+
+&nbsp;
+
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)&nbsp;&nbsp;
+[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](https://www.typescriptlang.org/)&nbsp;&nbsp;
+[![npm version](https://badge.fury.io/js/stampchain-mcp.svg)](https://badge.fury.io/js/stampchain-mcp)&nbsp;&nbsp;
 [![Stampchain API](https://img.shields.io/badge/API-v2.3-orange.svg)](https://stampchain.io/api)
 
+[![MCP](https://img.shields.io/badge/MCP-Compatible-blue.svg)](https://modelcontextprotocol.io/)&nbsp;&nbsp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)&nbsp;&nbsp;
+[![CI](https://github.com/stampchain-io/stampchain-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/stampchain-io/stampchain-mcp/actions/workflows/ci.yml)
+
+&nbsp;
+
+---
+
+</div> 
+&nbsp;
+
+## 📋 Overview
 A Model Context Protocol (MCP) server for interacting with Bitcoin Stamps and
 SRC-20 token data via the Stampchain API. This server provides MCP-compatible
 clients with tools to query Bitcoin Stamps, collections, and SRC-20 tokens.
 
-## Features
+## ⚡ Features
 
 - **Bitcoin Stamps Tools**: Get stamp details, search stamps, and retrieve
   recent stamps
@@ -338,3 +352,13 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - Basic Bitcoin Stamps, Collections, and SRC-20 tools
 - MCP client integration
 - Comprehensive test suite
+
+&nbsp;
+
+---
+
+<div align="center">
+
+Built with Bitcoin 🧡 Permanent by design
+
+</div>
