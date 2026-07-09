@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stampchain-io/stampchain-mcp/main/docs/assets/bitcoinstamps-indexer-github-hero.png" alt="Stampchain - MCP" width="100%">
+  <img src="https://raw.githubusercontent.com/stampchain-io/stampchain-mcp/main/docs/assets/stampchain-mcp-github-hero.png" alt="Stampchain - MCP" width="100%">
 
 ### Stampchain - MCP Server 
 
